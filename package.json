@@ -1,0 +1,16 @@
+{
+  "name": "Hacktoberfest_2020_Halloween",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://milspousecoders.github.io/Hacktoberfest_2020_Halloween",
+  "dependencies": {
+    "gh-pages": "^3.1.0"
+  }
+}
